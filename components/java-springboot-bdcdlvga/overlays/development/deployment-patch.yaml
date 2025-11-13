@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/sjmrhtap/java-springboot-bdcdlvga:05179667ee555b075837b633f71bf3725931ffeb@sha256:aa0c33af44a3638948047aaa262d2fe9ce43b3dadb86eadf5f539578277a97b4
+        - image: quay.io/sjmrhtap/java-springboot-bdcdlvga:2865fb4858d25d9cf429531e297f777f9ffaf72a@sha256:53a9832e317bf3b494c7dea67bba4ad3d7ee5da2e5d0e7aa51966e0bf3c48546
           name: container-image
